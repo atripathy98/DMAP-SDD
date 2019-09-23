@@ -1,7 +1,6 @@
 # PROJECT NAME
 ## TEAM DMAP
-#### Jae (), Mat Aliotta, Dan (), Alex Weisenbach, Animesh Tripathy
-
+#### Peter Shin, Mathew Aliotta, Dan Kazenoff, Alex Weisenbach, Animesh Tripathy
 
 
 ### Installation
