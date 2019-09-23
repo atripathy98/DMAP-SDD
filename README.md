@@ -17,5 +17,5 @@ CMD lines may need a "python -m " prepended.
   
 ### Run Server
 Server port can be changed but currently set to 8000.
-Run: python manage.py runserver
-Visit: localhost:8000
+  Run: python manage.py runserver
+  Visit: localhost:8000
