@@ -1,4 +1,4 @@
-# PROJECT NAME
+# Sublet Tool
 ## TEAM DMAP
 #### Peter Shin, Mathew Aliotta, Dan Kazenoff, Alex Weisenbach, Animesh Tripathy
 
